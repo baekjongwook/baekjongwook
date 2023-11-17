@@ -1,5 +1,4 @@
-[https://capsule-render.vercel.app/api?type=Waving&text=JongWookBeak&fontColor=ffffff&color=gradient:0D69FF,00FFA1](https://capsule-render.vercel.app/api?type=Waving&text=JongWookBeak&fontColor=ffffff&color=gradient:0D69FF,00FFA1)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=200&section=header&text=Jong%20Wook%20Beak&fontSize=60&fontAlignY=40"/>
 **baekjongwook/baekjongwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
