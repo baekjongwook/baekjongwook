@@ -14,9 +14,17 @@
 ---
 
 ### 🧰 Tools
+![AVR](https://img.shields.io/badge/AVR-0D47A1?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-0C4B33?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![PADS](https://img.shields.io/badge/PADS-005F9E?style=for-the-badge)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-DD5500?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FFB300?style=for-the-badge&logo=3d-printing&logoColor=white)
 
 ---
 
